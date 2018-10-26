@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Vehicle\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=imageNumber
+comment1.target=Vehicle(int)
+comment1.text=\r\n\ Vehicle\ is\ the\ constructor\ for\ objects\ of\ type\ Vehicle\r\n\ \r\n\ @param\ imageNumber\ The\ number\ than\ corresponds\ to\ a\ randomized\ image\ for\ vehicle\r\n\ @return\ An\ object\ of\ type\ Vehicle\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Vehicle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ initializeImages()
+comment3.text=\r\n\ initializeImages\ alters\ the\ images\ defined\ above\r\n\ to\ ensure\ they\ all\ have\ the\ same\ format\r\n\ (i.e.\ looking\ down\ and\ the\ same\ size)\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ moveDown()
+comment4.text=\r\n\ moveDown\ is\ the\ method\ that\ changes\ the\ location\ \r\n\ of\ the\ Car\ to\ move\ down\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ checkReachedBottom()
+comment5.text=\r\n\ checkReachedBottom\ checks\ to\ see\ whether\ the\ Vehicle\r\n\ has\ reached\ the\ bottom\ of\ the\ screen.\ If\ it\ has,\r\n\ remove\ this\ Vehicle\ from\ the\ world\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment6.params=
+comment6.target=boolean\ vehicleInRange()
+comment6.text=\r\n\ vehicleInRange\ checks\ to\ see\ if\ there\ are\ any\ Vehicles\ in\ a\ 80\ pixel\ radius\r\n\ of\ this\ Vehicle\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ A\ boolean\ that\ represents\ if\ there\ are\ vehicles\ in\ range\r\n
+numComments=7

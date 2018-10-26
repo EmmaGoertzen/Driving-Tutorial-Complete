@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Car\ here.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Car\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ moveRight()
+comment2.text=\r\n\ moveRight\ is\ the\ method\ that\ changes\ the\ location\ \r\n\ of\ the\ Car\ to\ move\ right\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ moveLeft()
+comment3.text=\r\n\ moveLeft\ is\ the\ method\ that\ changes\ the\ location\ \r\n\ of\ the\ Car\ to\ move\ left\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ moveUp()
+comment4.text=\r\n\ moveUp\ is\ the\ method\ that\ changes\ the\ location\ \r\n\ of\ the\ Car\ to\ move\ up\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ moveDown()
+comment5.text=\r\n\ moveDown\ is\ the\ method\ that\ changes\ the\ location\ \r\n\ of\ the\ Car\ to\ move\ down\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment6.params=
+comment6.target=void\ checkCollision()
+comment6.text=\r\n\ checkCollision\ checks\ to\ see\ if\ the\ Car\ has\ collided\r\n\ with\ another\ Vehicle.\ If\ it\ has,\ play\ a\ crash\ sound,\r\n\ display\ text\ saying\ the\ player\ crashed,\ and\ stops\r\n\ the\ scenario.\r\n
+numComments=7
